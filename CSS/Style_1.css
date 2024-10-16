@@ -1,0 +1,29 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #8f8fec;
+    text-align: center;
+}
+h2{
+    color: #8f8fec;
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+
+.intro {
+    color: rgb(170, 207, 170);
+}
+
+a:hover {
+    color: rgb(249, 220, 165);
+}
+
+#contenido {
+    padding: 20px;
+    border: 1px solid #bbd4ee;
+}
